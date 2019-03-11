@@ -1,0 +1,2 @@
+# AppNode
+Node app only
